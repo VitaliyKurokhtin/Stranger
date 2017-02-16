@@ -1,4 +1,4 @@
-# Stranger christmass lights
+# Stranger christmas lights
 
 This is an attempt to recreate christmas lights seen in a Netflix series. The idea is to use Bluetooth LE master controller to connect to a phone and receive text messages.
 
